@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vmorney-website/static/css/main.e3f8b77e.chunk.css",
+    "main.js": "/vmorney-website/static/js/main.258c6998.chunk.js",
+    "main.js.map": "/vmorney-website/static/js/main.258c6998.chunk.js.map",
+    "runtime-main.js": "/vmorney-website/static/js/runtime-main.f8270fbf.js",
+    "runtime-main.js.map": "/vmorney-website/static/js/runtime-main.f8270fbf.js.map",
+    "static/js/2.86696404.chunk.js": "/vmorney-website/static/js/2.86696404.chunk.js",
+    "static/js/2.86696404.chunk.js.map": "/vmorney-website/static/js/2.86696404.chunk.js.map",
+    "static/js/3.a4f4629e.chunk.js": "/vmorney-website/static/js/3.a4f4629e.chunk.js",
+    "static/js/3.a4f4629e.chunk.js.map": "/vmorney-website/static/js/3.a4f4629e.chunk.js.map",
+    "index.html": "/vmorney-website/index.html",
+    "static/css/main.e3f8b77e.chunk.css.map": "/vmorney-website/static/css/main.e3f8b77e.chunk.css.map",
+    "static/js/2.86696404.chunk.js.LICENSE.txt": "/vmorney-website/static/js/2.86696404.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8270fbf.js",
+    "static/js/2.86696404.chunk.js",
+    "static/css/main.e3f8b77e.chunk.css",
+    "static/js/main.258c6998.chunk.js"
+  ]
+}
